@@ -3,8 +3,8 @@
 ## Overview
 This repository contains two AI applications developed as part of the MSc AI program:
 
-1. **Application 1:** GA Image Reproduction
-2. **Application 2:** Other Application
+1. **Application 1:** A Star
+2. **Application 2:** GA image reproduction
 
 ## Installation
 To install the required dependencies, run:
